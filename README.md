@@ -30,7 +30,4 @@ If you use the dataset, please cite the paper as formatted below.
     booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
 }
 ```
-
-## Contact
-
-Please feel free to contact [Neema Kotonya](mailto:nk2418@ic.ac.uk) if you have any queries.
+ 
