@@ -1,5 +1,6 @@
 # Evaluating Explanations
-Implementation of evaluation metrics introduced in COLING-LREC 2024 paper.
+Implementation of evaluation metrics introduced in the LREC-COLING 2024 paper 
+*Towards a Framework for Evaluating Explanations in Automated Fact Verification*.
 
 
 
@@ -21,7 +22,7 @@ In order to use the metrics defined in this repository add the following line to
 
 ## Reference
 
-If you use the dataset, please cite the paper as formatted below.
+If you use the code in this repository, please cite the paper as formatted below.
 
 ```
 @inproceedings{kotonya-toni-2024-evaluating-explanations,
@@ -30,4 +31,6 @@ If you use the dataset, please cite the paper as formatted below.
     booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
 }
 ```
+
+
  
