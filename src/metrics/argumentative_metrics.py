@@ -26,7 +26,6 @@ def compute_circularity(args, attack_relations, support_relations):
         af[args.index(attacker)].append(args.index(attacked))
 
     for support_pair in support_relations:
-        print(support_pair)
         supported, supporter = support_pair
         af[args.index(supported)].append(args.index(supporter))
 
@@ -47,7 +46,7 @@ def compute_dialectical_acceptability(args, attack_relations, args_y_hat):
 
         Parameters:
             args (List[str]): list of arguments in the argumentative explanation.
-            attack_relations (List[List[str]]: list of attacker-attacked argument pairs in the explanation.
+            attack_relations (List[Tuple[str]]: list of attacker-attacked argument pairs in the explanation.
             args_y_hat (List[str]): list of arguments that have conclusion y_hat.
 
         Returns:

@@ -19,6 +19,8 @@ In order to use the metrics defined in this repository add the following line to
    from src.metrics import argumentative_metrics, deductive_metrics, freeform_metrics
 ```
 
+See examples in `src/examples`.
+
 
 ## Reference
 
